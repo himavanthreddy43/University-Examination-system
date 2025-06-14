@@ -73,5 +73,6 @@ This project is an **Online Book Publishing & Sales Platform** database schema u
 
 ![image](https://github.com/user-attachments/assets/faddf6e8-8eba-48cd-8d9d-1deda8e7c927)
 
+![image](https://github.com/user-attachments/assets/c35fe165-3554-4b5e-b2fe-b751e10c8ef2)
 
 
